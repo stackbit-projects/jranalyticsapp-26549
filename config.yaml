@@ -2,7 +2,7 @@ title: JR Analytics | App
 baseURL: /
 params:
   layout_type: full-width
-  style: minimal
+  style: classic
   palette: green
   mode: light
   base_font: sans-serif
